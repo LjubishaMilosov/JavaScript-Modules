@@ -1,4 +1,4 @@
-import thePeople from "./people.cjs";
+import thePeople from "../people.cjs";
 //import lodash from "lodash";
 
 const { people, countPeople } = thePeople;
